@@ -8,7 +8,9 @@ h1{font-size:175%;
   box-sizing: border-box;
    height :200px;
    float:left;
-	  margin :15px;
+	  margin-top :15px;
+	  margin-right:15px;
+	  margin-bottom:15px;
    margin-left:25px;
 	  
 
