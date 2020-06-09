@@ -2,8 +2,7 @@ h1{font-size:175%;
    text-align:center;
    margin:bottom:15px;}
 
-
-
+  
 .section1,.section2,.section3{
 
 	border:1px solid black;
@@ -11,10 +10,7 @@ h1{font-size:175%;
   box-sizing: border-box;
    height :200px;
    float:left;
-   margin-left:10px;
-margin-top:10px;
-margin-bottom:10px;
-	
+   margin: 15px;
 
    }
 
@@ -113,11 +109,11 @@ float:left;
 }
 @media(min-width: 768px)and (max-width:991px){
 	.section1{
-		width: 43%;
+		width: 45%;
 
 	}
 	.section2{
-		width: 43%;
+		width: 45%;
 	}
 	.section3{
 		width: 93%;
